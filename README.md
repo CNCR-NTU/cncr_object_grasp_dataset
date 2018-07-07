@@ -2,7 +2,7 @@
 
 This repository was created for grasp strategy selection using SNNs
 
-## Classe types
+## Class types
 * Grasp 1 - Large Diameter
 
 ![grasp1](http://grasp.xief.net/images_grasps/i_1_1.jpg)
